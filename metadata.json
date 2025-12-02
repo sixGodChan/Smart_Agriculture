@@ -1,7 +1,5 @@
 {
-  "name": "Copy of 作物卫士 AI",
-  "description": "智能农业助手，利用计算机视觉从照片中识别作物病虫害，提供即时诊断和治疗建议。",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "name": "作物卫士 AI",
+  "description": "基于 Google Gemini 的农作物病虫害识别应用",
+  "requestFramePermissions": []
 }
