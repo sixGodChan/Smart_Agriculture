@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 作物卫士 AI",
+  "description": "智能农业助手，利用计算机视觉从照片中识别作物病虫害，提供即时诊断和治疗建议。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
